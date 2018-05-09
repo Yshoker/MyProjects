@@ -1,0 +1,535 @@
+warning!
+error
+2018-05-05 21:08:46 DEBUG CheckNavberTest:59 - Hello World!
+2018-05-05 21:08:46 INFO  CheckNavberTest:60 - Info
+2018-05-05 21:08:46 WARN  CheckNavberTest:61 - warning!
+2018-05-05 21:08:46 ERROR CheckNavberTest:62 - error
+2018-05-05 21:08:46 INFO  CheckNavberTest:64 - sasdasdsadnjlknlknjknjk
+2018-05-05 21:09:19 INFO  CheckNavberTest:89 - asdasdasdasasssssssssssssssssssssss
+2018-05-05 23:33:51 INFO  Base:18 - Im inside here
+2018-05-05 23:41:02 INFO  Base:18 - Im inside here
+2018-05-05 23:42:26 INFO  Base:18 - Im inside here
+2018-05-05 23:43:28 INFO  Base:18 - Im inside here
+2018-05-05 23:47:36 INFO  Base:18 - Im inside here
+2018-05-05 23:51:48 INFO  Base:18 - Im inside here
+2018-05-05 23:54:59 INFO  Base:18 - Im inside here
+2018-05-05 23:58:28 INFO  Base:18 - Im inside here
+2018-05-06 00:03:59 INFO  Base:18 - Im inside here
+2018-05-06 00:05:42 INFO  Base:18 - Im inside here
+2018-05-06 00:07:44 INFO  Base:18 - Im inside here
+2018-05-06 00:08:32 INFO  Base:18 - Im inside here
+2018-05-06 00:11:59 INFO  Base:18 - Im inside here
+2018-05-06 00:13:50 INFO  Base:18 - Im inside here
+2018-05-06 00:55:58 INFO  Base:22 - Im inside here
+2018-05-06 00:56:57 INFO  Base:22 - Im inside here
+2018-05-06 01:19:32 INFO  Base:22 - Im inside here
+2018-05-06 01:19:51 INFO  Base:63 - add item to cart chcek 
+2018-05-06 01:20:46 INFO  Base:118 - number of items cart chcek
+2018-05-06 01:21:01 INFO  Base:130 - cart test finfih
+2018-05-06 01:23:00 INFO  Base:22 - Im inside here
+2018-05-06 01:23:29 INFO  Base:63 - add item to cart chcek 
+2018-05-06 01:24:24 INFO  Base:118 - number of items cart chcek
+2018-05-06 01:24:30 INFO  Base:130 - cart test finfih
+2018-05-06 01:26:32 INFO  Base:22 - Im inside here
+2018-05-06 01:26:33 INFO  Base:53 - cart test
+2018-05-06 01:27:23 INFO  Base:22 - Im inside here
+2018-05-06 01:27:23 INFO  Base:53 - cart test
+2018-05-06 01:27:41 INFO  Base:63 - add item to cart chcek 
+2018-05-06 01:28:36 INFO  Base:118 - number of items cart chcek
+2018-05-06 01:28:41 INFO  Base:130 - cart test finfih
+2018-05-06 01:31:30 INFO  Base:22 - Im inside here
+2018-05-06 01:31:31 INFO  Base:53 - cart test
+2018-05-06 01:31:55 INFO  Base:63 - add item to cart chcek 
+2018-05-06 01:32:50 INFO  Base:118 - number of items cart chcek
+2018-05-06 01:32:55 INFO  Base:130 - cart test finfih
+2018-05-06 01:33:54 INFO  Base:22 - Im inside here
+2018-05-06 01:33:54 INFO  Base:53 - cart test
+2018-05-06 01:34:17 INFO  Base:63 - add item to cart chcek 
+2018-05-06 01:35:13 INFO  Base:118 - number of items cart chcek
+2018-05-06 01:35:25 INFO  Base:130 - cart test finfih
+2018-05-06 01:36:44 INFO  Base:22 - Im inside here
+2018-05-06 01:36:45 INFO  Base:53 - cart test
+2018-05-06 01:37:08 INFO  Base:63 - add item to cart chcek 
+2018-05-06 01:38:02 INFO  Base:118 - number of items cart chcek
+2018-05-06 01:38:07 INFO  Base:130 - cart test finfih
+2018-05-06 01:38:10 INFO  Base:56 - check nav test
+2018-05-06 01:38:34 INFO  Base:68 - checing navbar
+2018-05-06 01:39:06 INFO  Base:53 - login and logut check
+2018-05-06 01:39:12 INFO  Base:66 - try to login check 
+2018-05-06 01:39:28 INFO  Base:55 - start shhoping test
+2018-05-06 01:39:37 INFO  Base:22 - Im inside here
+2018-05-06 01:39:38 INFO  Base:53 - cart test
+2018-05-06 01:40:43 INFO  Base:63 - add item to cart chcek 
+2018-05-06 01:40:55 INFO  Base:68 - shooping check good query
+2018-05-06 01:41:13 INFO  Base:56 - service test
+2018-05-06 01:41:24 INFO  Base:118 - number of items cart chcek
+2018-05-06 01:41:33 INFO  Base:130 - cart test finfih
+2018-05-06 01:41:48 INFO  Base:68 - CS good query check
+2018-05-06 01:42:00 INFO  Base:76 - try to logout check 
+2018-05-06 01:43:22 INFO  Base:56 - check nav test
+2018-05-06 01:43:22 INFO  Base:22 - Im inside here
+2018-05-06 01:43:22 INFO  Base:53 - login and logut check
+2018-05-06 01:43:22 INFO  Base:55 - start shhoping test
+2018-05-06 01:43:22 INFO  Base:56 - service test
+2018-05-06 01:43:23 INFO  Base:53 - cart test
+2018-05-06 01:43:42 INFO  Base:63 - add item to cart chcek 
+2018-05-06 01:44:38 INFO  Base:118 - number of items cart chcek
+2018-05-06 01:44:43 INFO  Base:130 - cart test finfih
+2018-05-06 01:45:25 INFO  Base:22 - Im inside here
+2018-05-06 01:45:26 INFO  Base:53 - cart test
+2018-05-06 01:45:53 INFO  Base:63 - add item to cart chcek 
+2018-05-06 01:46:49 INFO  Base:118 - number of items cart chcek
+2018-05-06 01:46:54 INFO  Base:130 - cart test finfih
+2018-05-06 01:46:56 INFO  Base:56 - check nav test
+2018-05-06 01:47:24 INFO  Base:68 - checing navbar
+2018-05-06 01:47:50 INFO  Base:53 - login and logut check
+2018-05-06 01:47:59 INFO  Base:66 - try to login check 
+2018-05-06 01:48:17 INFO  Base:55 - start shhoping test
+2018-05-06 01:48:49 INFO  Base:68 - shooping check good query
+2018-05-06 01:49:11 INFO  Base:56 - service test
+2018-05-06 01:49:54 INFO  Base:68 - CS good query check
+2018-05-06 01:50:13 INFO  Base:76 - try to logout check 
+2018-05-06 01:57:14 INFO  Base:22 - Im inside here
+2018-05-06 01:57:15 INFO  Base:53 - cart test
+2018-05-06 01:57:35 INFO  Base:63 - add item to cart chcek 
+2018-05-06 01:58:31 INFO  Base:118 - number of items cart chcek
+2018-05-06 01:58:36 INFO  Base:130 - cart test finfih
+2018-05-06 01:58:38 INFO  Base:56 - check nav test
+2018-05-06 01:59:14 INFO  Base:68 - checing navbar
+2018-05-06 01:59:44 INFO  Base:53 - login and logut check
+2018-05-06 01:59:47 INFO  Base:66 - try to login check 
+2018-05-06 02:00:03 INFO  Base:55 - start shhoping test
+2018-05-06 02:00:32 INFO  Base:68 - shooping check good query
+2018-05-06 02:00:51 INFO  Base:56 - service test
+2018-05-06 02:01:15 INFO  Base:68 - CS good query check
+2018-05-06 02:01:28 INFO  Base:76 - try to logout check 
+2018-05-06 08:19:33 INFO  Base:22 - Im inside here
+2018-05-06 08:19:33 INFO  Base:53 - cart test
+2018-05-06 08:20:06 INFO  Base:63 - add item to cart chcek 
+2018-05-06 08:21:12 INFO  Base:118 - number of items cart chcek
+2018-05-06 08:21:18 INFO  Base:130 - cart test finfih
+2018-05-06 08:21:20 INFO  Base:56 - check nav test
+2018-05-06 08:21:34 INFO  Base:68 - checing navbar
+2018-05-06 08:22:14 INFO  Base:53 - login and logut check
+2018-05-06 08:22:17 INFO  Base:66 - try to login check 
+2018-05-06 08:22:34 INFO  Base:55 - start shhoping test
+2018-05-06 08:23:16 INFO  Base:68 - shooping check good query
+2018-05-06 08:23:29 INFO  Base:56 - service test
+2018-05-06 08:24:04 INFO  Base:68 - CS good query check
+2018-05-06 08:24:19 INFO  Base:76 - try to logout check 
+2018-05-06 08:28:15 INFO  Base:22 - Im inside here
+2018-05-06 08:28:16 INFO  Base:53 - cart test
+2018-05-06 08:28:43 INFO  Base:63 - add item to cart chcek 
+2018-05-06 08:29:50 INFO  Base:118 - number of items cart chcek
+2018-05-06 08:29:55 INFO  Base:130 - cart test finfih
+2018-05-06 08:29:55 INFO  Base:56 - check nav test
+2018-05-06 08:30:15 INFO  Base:68 - checing navbar
+2018-05-06 08:30:53 INFO  Base:81 - navbar test finish
+2018-05-06 08:30:55 INFO  Base:53 - login and logut check
+2018-05-06 08:30:59 INFO  Base:66 - try to login check 
+2018-05-06 08:31:11 INFO  Base:86 - try to wrong login check 
+2018-05-06 08:31:19 INFO  Base:76 - try to logout check 
+2018-05-06 08:31:59 INFO  Base:101 - login & logout finish
+2018-05-06 08:32:01 INFO  Base:55 - start shhoping test
+2018-05-06 08:32:16 INFO  Base:112 - shooping check advance
+2018-05-06 08:32:30 INFO  Base:68 - shooping check good query
+2018-05-06 08:32:47 INFO  Base:96 - shooping check shop by 
+2018-05-06 08:33:01 INFO  Base:82 - shooping check wrong query
+2018-05-06 08:33:14 INFO  Base:127 - shooping check finish
+2018-05-06 08:33:16 INFO  Base:56 - Cservice test
+2018-05-06 08:33:46 INFO  Base:68 - CS good query check
+2018-05-06 08:33:58 INFO  Base:105 - CS macking contacct check
+2018-05-06 08:35:10 INFO  Base:95 - CS select topic check
+2018-05-06 08:35:43 INFO  Base:82 - CS wrong query check
+2018-05-06 08:35:43 INFO  Base:121 - CS test finish
+2018-05-06 08:46:12 INFO  Base:22 - Im inside here
+2018-05-06 08:46:13 INFO  Base:53 - cart test
+2018-05-06 08:46:40 INFO  Base:63 - add item to cart chcek 
+2018-05-06 08:47:39 INFO  Base:56 - check nav test
+2018-05-06 08:47:55 INFO  Base:68 - checing navbar
+2018-05-06 08:48:34 INFO  Base:81 - navbar test finish
+2018-05-06 08:48:34 INFO  Base:53 - login and logut check
+2018-05-06 08:48:38 INFO  Base:66 - try to login check 
+2018-05-06 08:49:00 INFO  Base:55 - start shhoping test
+2018-05-06 08:49:16 INFO  Base:68 - shooping check good query
+2018-05-06 08:49:34 INFO  Base:56 - Cservice test
+2018-05-06 08:50:13 INFO  Base:68 - CS good query check
+2018-05-06 08:50:25 INFO  Base:118 - number of items cart chcek
+2018-05-06 08:50:30 INFO  Base:130 - cart test finfih
+2018-05-06 08:50:33 INFO  Base:76 - try to logout check 
+2018-05-06 08:53:07 INFO  Base:22 - Im inside here
+2018-05-06 08:53:08 INFO  Base:53 - cart test
+2018-05-06 08:53:36 INFO  Base:63 - add item to cart chcek 
+2018-05-06 08:54:38 INFO  Base:56 - check nav test
+2018-05-06 08:55:04 INFO  Base:68 - checing navbar
+2018-05-06 08:55:46 INFO  Base:81 - navbar test finish
+2018-05-06 08:55:46 INFO  Base:53 - login and logut check
+2018-05-06 08:55:49 INFO  Base:66 - try to login check 
+2018-05-06 08:56:05 INFO  Base:55 - start shhoping test
+2018-05-06 08:56:30 INFO  Base:68 - shooping check good query
+2018-05-06 08:56:47 INFO  Base:56 - Cservice test
+2018-05-06 08:57:17 INFO  Base:68 - CS good query check
+2018-05-06 08:57:29 INFO  Base:118 - number of items cart chcek
+2018-05-06 08:57:34 INFO  Base:129 - cart test finfih
+2018-05-06 08:57:37 INFO  Base:76 - try to logout check 
+2018-05-06 08:58:49 INFO  Base:22 - Im inside here
+2018-05-06 08:58:50 INFO  Base:53 - cart test
+2018-05-06 08:59:11 INFO  Base:63 - add item to cart chcek 
+2018-05-06 09:00:23 INFO  Base:56 - check nav test
+2018-05-06 09:01:26 INFO  Base:68 - checing navbar
+2018-05-06 09:01:36 INFO  Base:81 - navbar test finish
+2018-05-06 09:01:38 INFO  Base:53 - login and logut check
+2018-05-06 09:01:41 INFO  Base:55 - start shhoping test
+2018-05-06 09:01:45 INFO  Base:56 - Cservice test
+2018-05-06 09:01:50 INFO  Base:118 - number of items cart chcek
+2018-05-06 09:01:59 INFO  Base:129 - cart test finfih
+2018-05-06 09:12:02 INFO  Base:22 - Im inside here
+2018-05-06 09:12:03 INFO  Base:53 - cart test
+2018-05-06 09:12:30 INFO  Base:63 - add item to cart chcek 
+2018-05-06 09:13:42 INFO  Base:118 - number of items cart chcek
+2018-05-06 09:13:48 INFO  Base:129 - cart test finfih
+2018-05-06 09:14:42 INFO  Base:22 - Im inside here
+2018-05-06 09:14:43 INFO  Base:53 - cart test
+2018-05-06 09:15:11 INFO  Base:63 - add item to cart chcek 
+2018-05-06 09:15:48 INFO  Base:118 - number of items cart chcek
+2018-05-06 09:15:57 INFO  Base:129 - cart test finfih
+2018-05-06 09:16:15 INFO  Base:22 - Im inside here
+2018-05-06 09:16:15 INFO  Base:56 - check nav test
+2018-05-06 09:16:15 INFO  Base:53 - cart test
+2018-05-06 09:16:30 INFO  Base:63 - add item to cart chcek 
+2018-05-06 09:17:32 INFO  Base:118 - number of items cart chcek
+2018-05-06 09:17:37 INFO  Base:129 - cart test finfih
+2018-05-06 09:19:33 INFO  Base:23 - Im inside here
+2018-05-06 09:19:34 INFO  Base:53 - cart test
+2018-05-06 09:20:03 INFO  Base:63 - add item to cart chcek 
+2018-05-06 09:21:09 INFO  Base:118 - number of items cart chcek
+2018-05-06 09:21:14 INFO  Base:129 - cart test finfih
+2018-05-06 09:22:36 INFO  Base:23 - Im inside here
+2018-05-06 09:22:37 INFO  Base:56 - check nav test
+2018-05-06 09:22:37 INFO  Base:53 - login and logut check
+2018-05-06 09:22:37 INFO  Base:55 - start shhoping test
+2018-05-06 09:22:37 INFO  Base:58 - cart test
+2018-05-06 09:22:37 INFO  Base:56 - Cservice test
+2018-05-06 09:22:50 INFO  Base:66 - try to login check 
+2018-05-06 09:23:47 INFO  Base:68 - CS good query check
+2018-05-06 09:24:12 INFO  Base:68 - add item to cart chcek 
+2018-05-06 09:24:29 INFO  Base:68 - checing navbar
+2018-05-06 09:24:30 INFO  Base:68 - shooping check good query
+2018-05-06 09:25:14 INFO  Base:81 - navbar test finish
+2018-05-06 09:25:17 INFO  Base:76 - try to logout check 
+2018-05-06 09:25:17 INFO  Base:123 - number of items cart chcek
+2018-05-06 09:25:17 INFO  Base:82 - shooping check wrong query
+2018-05-06 09:25:17 INFO  Base:82 - CS wrong query check
+2018-05-06 09:25:26 INFO  Base:134 - cart test finfih
+2018-05-06 09:25:26 INFO  Base:86 - try to wrong login check 
+2018-05-06 09:25:26 INFO  Base:96 - shooping check shop by 
+2018-05-06 09:25:26 INFO  Base:95 - CS select topic check
+2018-05-06 09:25:30 INFO  Base:101 - login & logout finish
+2018-05-06 09:25:30 INFO  Base:112 - shooping check advance
+2018-05-06 09:25:30 INFO  Base:105 - CS macking contacct check
+2018-05-06 09:25:30 INFO  Base:127 - shooping check finish
+2018-05-06 09:25:34 INFO  Base:121 - CS test finish
+2018-05-06 09:27:21 INFO  Base:23 - Im inside here
+2018-05-06 09:27:22 INFO  Base:56 - check nav test
+2018-05-06 09:27:22 INFO  Base:58 - cart test
+2018-05-06 09:27:51 INFO  Base:68 - add item to cart chcek 
+2018-05-06 09:28:04 INFO  Base:68 - checing navbar
+2018-05-06 09:28:45 INFO  Base:81 - navbar test finish
+2018-05-06 09:28:47 INFO  Base:53 - login and logut check
+2018-05-06 09:28:53 INFO  Base:66 - try to login check 
+2018-05-06 09:29:06 INFO  Base:55 - start shhoping test
+2018-05-06 09:29:10 INFO  Base:56 - Cservice test
+2018-05-06 09:29:40 INFO  Base:68 - shooping check good query
+2018-05-06 09:29:41 INFO  Base:68 - CS good query check
+2018-05-06 09:29:55 INFO  Base:123 - number of items cart chcek
+2018-05-06 09:29:55 INFO  Base:76 - try to logout check 
+2018-05-06 09:30:00 INFO  Base:134 - cart test finfih
+2018-05-06 09:30:02 INFO  Base:82 - shooping check wrong query
+2018-05-06 09:30:09 INFO  Base:82 - CS wrong query check
+2018-05-06 09:30:22 INFO  Base:96 - shooping check shop by 
+2018-05-06 09:30:22 INFO  Base:86 - try to wrong login check 
+2018-05-06 09:30:34 INFO  Base:101 - login & logout finish
+2018-05-06 09:30:36 INFO  Base:95 - CS select topic check
+2018-05-06 09:30:48 INFO  Base:105 - CS macking contacct check
+2018-05-06 09:30:48 INFO  Base:112 - shooping check advance
+2018-05-06 09:31:02 INFO  Base:121 - CS test finish
+2018-05-06 09:31:07 INFO  Base:127 - shooping check finish
+2018-05-08 11:16:55 INFO  Base:23 - Im inside here
+2018-05-08 11:16:56 INFO  Base:56 - check nav test
+2018-05-08 11:16:56 INFO  Base:58 - cart test
+2018-05-08 11:17:30 INFO  Base:68 - add item to cart chcek 
+2018-05-08 11:17:55 INFO  Base:68 - checing navbar
+2018-05-08 11:18:34 INFO  Base:81 - navbar test finish
+2018-05-08 11:18:36 INFO  Base:53 - login and logut check
+2018-05-08 11:18:41 INFO  Base:66 - try to login check 
+2018-05-08 11:18:42 INFO  Base:55 - start shhoping test
+2018-05-08 11:18:59 INFO  Base:56 - Cservice test
+2018-05-08 11:19:14 INFO  Base:68 - shooping check good query
+2018-05-08 11:19:40 INFO  Base:68 - CS good query check
+2018-05-08 11:19:52 INFO  Base:123 - number of items cart chcek
+2018-05-08 11:19:52 INFO  Base:76 - try to logout check 
+2018-05-08 11:21:04 INFO  Base:82 - shooping check wrong query
+2018-05-08 11:21:09 INFO  Base:134 - cart test finfih
+2018-05-08 11:21:09 INFO  Base:82 - CS wrong query check
+2018-05-08 11:21:27 INFO  Base:86 - try to wrong login check 
+2018-05-08 11:21:27 INFO  Base:96 - shooping check shop by 
+2018-05-08 11:21:50 INFO  Base:101 - login & logout finish
+2018-05-08 11:21:50 INFO  Base:95 - CS select topic check
+2018-05-08 11:23:11 INFO  Base:105 - CS macking contacct check
+2018-05-08 11:23:11 INFO  Base:112 - shooping check advance
+2018-05-08 11:23:56 INFO  Base:127 - shooping check finish
+2018-05-08 11:24:22 INFO  Base:121 - CS test finish
+2018-05-08 12:26:17 INFO  Base:23 - Im inside here
+2018-05-08 12:26:18 INFO  Base:56 - check nav test
+2018-05-08 12:26:18 INFO  Base:58 - cart test
+2018-05-08 12:26:34 INFO  Base:68 - add item to cart chcek 
+2018-05-08 12:26:42 INFO  Base:68 - checing navbar
+2018-05-08 12:27:22 INFO  Base:81 - navbar test finish
+2018-05-08 12:27:24 INFO  Base:53 - login and logut check
+2018-05-08 12:27:33 INFO  Base:66 - try to login check 
+2018-05-08 12:27:42 INFO  Base:55 - start shhoping test
+2018-05-08 12:27:46 INFO  Base:56 - Cservice test
+2018-05-08 12:28:08 INFO  Base:68 - CS good query check
+2018-05-08 12:28:10 INFO  Base:68 - shooping check good query
+2018-05-08 12:28:24 INFO  Base:123 - number of items cart chcek
+2018-05-08 12:28:24 INFO  Base:76 - try to logout check 
+2018-05-08 12:29:36 INFO  Base:82 - shooping check wrong query
+2018-05-08 12:29:41 INFO  Base:134 - cart test finfih
+2018-05-08 12:29:43 INFO  Base:82 - CS wrong query check
+2018-05-08 12:30:01 INFO  Base:96 - shooping check shop by 
+2018-05-08 12:30:01 INFO  Base:86 - try to wrong login check 
+2018-05-08 12:30:20 INFO  Base:101 - login & logout finish
+2018-05-08 12:30:23 INFO  Base:95 - CS select topic check
+2018-05-08 12:31:44 INFO  Base:112 - shooping check advance
+2018-05-08 12:31:44 INFO  Base:105 - CS macking contacct check
+2018-05-08 12:32:04 INFO  Base:121 - CS test finish
+2018-05-08 12:32:16 INFO  Base:127 - shooping check finish
+2018-05-08 12:32:18 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-05-08 12:32:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-05-08 12:32:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-05-08 12:32:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-05-08 12:32:18 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Yael/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-05-08 12:43:44 INFO  Base:24 - Im inside here
+2018-05-08 12:43:45 INFO  Base:56 - check nav test
+2018-05-08 12:43:45 INFO  Base:58 - cart test
+2018-05-08 12:43:45 INFO  Base:53 - login and logut check
+2018-05-08 12:43:45 INFO  Base:55 - start shhoping test
+2018-05-08 12:43:45 INFO  Base:56 - Cservice test
+2018-05-08 12:43:45 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-05-08 12:43:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-05-08 12:43:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-05-08 12:43:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-05-08 12:43:45 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Yael/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-05-08 12:45:59 INFO  Base:24 - Im inside here
+2018-05-08 12:46:00 INFO  Base:58 - cart test
+2018-05-08 12:46:00 INFO  Base:56 - check nav test
+2018-05-08 12:46:00 INFO  Base:55 - start shhoping test
+2018-05-08 12:46:00 INFO  Base:53 - login and logut check
+2018-05-08 12:46:00 INFO  Base:56 - Cservice test
+2018-05-08 12:46:00 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-05-08 12:46:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-05-08 12:46:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-05-08 12:46:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-05-08 12:46:00 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Yael/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-05-08 12:52:15 INFO  Base:24 - Im inside here
+2018-05-08 12:52:16 INFO  Base:58 - cart test
+2018-05-08 12:52:16 INFO  Base:56 - check nav test
+2018-05-08 12:52:16 INFO  Base:55 - start shhoping test
+2018-05-08 12:52:16 INFO  Base:53 - login and logut check
+2018-05-08 12:52:16 INFO  Base:56 - Cservice test
+2018-05-08 12:52:16 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-05-08 12:52:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-05-08 12:52:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-05-08 12:52:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-05-08 12:52:16 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Yael/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-05-08 12:54:11 INFO  Base:24 - Im inside here
+2018-05-08 12:54:12 INFO  Base:58 - cart test
+2018-05-08 12:54:12 INFO  Base:56 - check nav test
+2018-05-08 12:54:25 INFO  Base:68 - add item to cart chcek 
+2018-05-08 12:54:25 INFO  Base:53 - login and logut check
+2018-05-08 12:54:30 INFO  Base:55 - start shhoping test
+2018-05-08 12:54:30 INFO  Base:56 - Cservice test
+2018-05-08 12:54:36 INFO  Base:123 - number of items cart chcek
+2018-05-08 12:54:41 INFO  Base:134 - cart test finfih
+2018-05-08 12:54:43 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-05-08 12:54:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-05-08 12:54:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-05-08 12:54:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-05-08 12:54:43 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Yael/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-05-08 13:07:48 INFO  Base:24 - Im inside here
+2018-05-08 13:07:49 INFO  Base:65 - cart test
+2018-05-08 13:07:49 INFO  Base:56 - check nav test
+2018-05-08 13:08:05 INFO  Base:68 - checing navbar
+2018-05-08 13:08:27 INFO  Base:53 - login and logut check
+2018-05-08 13:08:34 INFO  Base:66 - try to login check 
+2018-05-08 13:08:51 INFO  Base:55 - start shhoping test
+2018-05-08 13:09:07 INFO  Base:81 - navbar test finish
+2018-05-08 13:09:10 INFO  Base:56 - Cservice test
+2018-05-08 13:09:34 INFO  Base:68 - shooping check good query
+2018-05-08 13:09:47 INFO  Base:68 - CS good query check
+2018-05-08 13:10:00 INFO  Base:76 - try to logout check 
+2018-05-08 13:10:00 INFO  Base:82 - shooping check wrong query
+2018-05-08 13:10:14 INFO  Base:82 - CS wrong query check
+2018-05-08 13:10:26 INFO  Base:86 - try to wrong login check 
+2018-05-08 13:10:26 INFO  Base:96 - shooping check shop by 
+2018-05-08 13:10:40 INFO  Base:101 - login & logout finish
+2018-05-08 13:10:42 INFO  Base:95 - CS select topic check
+2018-05-08 13:10:53 INFO  Base:112 - shooping check advance
+2018-05-08 13:10:53 INFO  Base:105 - CS macking contacct check
+2018-05-08 13:11:05 INFO  Base:121 - CS test finish
+2018-05-08 13:11:08 INFO  Base:127 - shooping check finish
+2018-05-08 13:11:10 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-05-08 13:11:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-05-08 13:11:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-05-08 13:11:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-05-08 13:11:10 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Yael/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-05-08 13:18:06 INFO  Base:24 - Im inside here
+2018-05-08 13:18:07 INFO  Base:66 - cart test
+2018-05-08 13:18:07 INFO  Base:56 - check nav test
+2018-05-08 13:18:39 INFO  Base:68 - checing navbar
+2018-05-08 13:19:17 INFO  Base:81 - navbar test finish
+2018-05-08 13:19:17 INFO  Base:53 - login and logut check
+2018-05-08 13:19:22 INFO  Base:66 - try to login check 
+2018-05-08 13:19:43 INFO  Base:55 - start shhoping test
+2018-05-08 13:20:13 INFO  Base:68 - shooping check good query
+2018-05-08 13:20:31 INFO  Base:56 - Cservice test
+2018-05-08 13:21:09 INFO  Base:68 - CS good query check
+2018-05-08 13:23:07 INFO  Base:76 - try to logout check 
+2018-05-08 13:23:07 INFO  Base:82 - shooping check wrong query
+2018-05-08 13:23:11 INFO  Base:82 - CS wrong query check
+2018-05-08 13:23:29 INFO  Base:96 - shooping check shop by 
+2018-05-08 13:23:29 INFO  Base:86 - try to wrong login check 
+2018-05-08 13:23:33 INFO  Base:101 - login & logout finish
+2018-05-08 13:23:33 INFO  Base:95 - CS select topic check
+2018-05-08 13:24:05 INFO  Base:112 - shooping check advance
+2018-05-08 13:24:05 INFO  Base:105 - CS macking contacct check
+2018-05-08 13:24:37 INFO  Base:121 - CS test finish
+2018-05-08 13:24:51 INFO  Base:127 - shooping check finish
+2018-05-08 13:24:54 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-05-08 13:24:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-05-08 13:24:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-05-08 13:24:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-05-08 13:24:54 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Yael/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-05-08 13:37:26 INFO  Base:24 - Im inside here
+2018-05-08 13:37:26 INFO  Base:59 - cart test
+2018-05-08 13:37:26 INFO  Base:56 - check nav test
+2018-05-08 13:37:26 INFO  Base:55 - start shhoping test
+2018-05-08 13:37:26 INFO  Base:53 - login and logut check
+2018-05-08 13:37:26 INFO  Base:56 - Cservice test
+2018-05-08 13:37:27 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-05-08 13:37:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-05-08 13:37:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-05-08 13:37:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-05-08 13:37:27 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Yael/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-05-08 13:59:46 INFO  Base:24 - Im inside here
+2018-05-08 13:59:46 INFO  Base:56 - check nav test
+2018-05-08 13:59:46 INFO  Base:59 - cart test
+2018-05-08 13:59:46 INFO  Base:55 - start shhoping test
+2018-05-08 13:59:46 INFO  Base:53 - login and logut check
+2018-05-08 13:59:46 INFO  Base:56 - Cservice test
+2018-05-08 13:59:47 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-05-08 13:59:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-05-08 13:59:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-05-08 13:59:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-05-08 13:59:47 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Yael/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-05-08 14:00:48 INFO  Base:24 - Im inside here
+2018-05-08 14:00:49 INFO  Base:59 - cart test
+2018-05-08 14:00:49 INFO  Base:56 - check nav test
+2018-05-08 14:00:49 INFO  Base:53 - login and logut check
+2018-05-08 14:00:49 INFO  Base:55 - start shhoping test
+2018-05-08 14:00:49 INFO  Base:56 - Cservice test
+2018-05-08 14:00:49 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-05-08 14:00:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-05-08 14:00:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-05-08 14:00:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-05-08 14:00:49 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Yael/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-05-09 09:03:48 INFO  Base:26 - Im inside here
+2018-05-09 09:03:49 INFO  Base:56 - check nav test
+2018-05-09 09:03:49 INFO  Base:59 - cart test
+2018-05-09 09:04:13 INFO  Base:69 - add item to cart chcek 
+2018-05-09 09:04:23 INFO  Base:68 - checing navbar
+2018-05-09 09:05:08 INFO  Base:81 - navbar test finish
+2018-05-09 09:05:08 INFO  Base:53 - login and logut check
+2018-05-09 09:05:12 INFO  Base:66 - try to login check 
+2018-05-09 09:05:14 INFO  Base:55 - start shhoping test
+2018-05-09 09:05:37 INFO  Base:56 - Cservice test
+2018-05-09 09:05:51 INFO  Base:68 - shooping check good query
+2018-05-09 09:06:18 INFO  Base:68 - CS good query check
+2018-05-09 09:06:30 INFO  Base:124 - number of items cart chcek
+2018-05-09 09:06:30 INFO  Base:76 - try to logout check 
+2018-05-09 09:06:35 INFO  Base:135 - cart test finfih
+2018-05-09 09:06:35 INFO  Base:82 - shooping check wrong query
+2018-05-09 09:06:45 INFO  Base:82 - CS wrong query check
+2018-05-09 09:06:58 INFO  Base:96 - shooping check shop by 
+2018-05-09 09:06:58 INFO  Base:86 - try to wrong login check 
+2018-05-09 09:07:11 INFO  Base:101 - login & logout finish
+2018-05-09 09:07:13 INFO  Base:95 - CS select topic check
+2018-05-09 09:07:24 INFO  Base:112 - shooping check advance
+2018-05-09 09:07:24 INFO  Base:105 - CS macking contacct check
+2018-05-09 09:07:37 INFO  Base:121 - CS test finish
+2018-05-09 09:07:39 INFO  Base:127 - shooping check finish
+2018-05-09 09:07:39 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-05-09 09:07:39 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-05-09 09:07:39 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-05-09 09:07:39 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-05-09 09:07:39 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Yael/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-05-09 09:16:01 INFO  Base:26 - Im inside here
+2018-05-09 09:16:02 INFO  Base:56 - check nav test
+2018-05-09 09:16:02 INFO  Base:59 - cart test
+2018-05-09 09:16:26 INFO  Base:68 - checing navbar
+2018-05-09 09:16:31 INFO  Base:69 - add item to cart chcek 
+2018-05-09 09:17:06 INFO  Base:82 - navbar test finish
+2018-05-09 09:17:08 INFO  Base:53 - login and logut check
+2018-05-09 09:17:15 INFO  Base:66 - try to login check 
+2018-05-09 09:17:28 INFO  Base:55 - start shhoping test
+2018-05-09 09:17:32 INFO  Base:56 - Cservice test
+2018-05-09 09:17:53 INFO  Base:68 - CS good query check
+2018-05-09 09:18:03 INFO  Base:68 - shooping check good query
+2018-05-09 09:18:16 INFO  Base:76 - try to logout check 
+2018-05-09 09:18:16 INFO  Base:124 - number of items cart chcek
+2018-05-09 09:18:21 INFO  Base:135 - cart test finfih
+2018-05-09 09:18:23 INFO  Base:82 - shooping check wrong query
+2018-05-09 09:18:30 INFO  Base:82 - CS wrong query check
+2018-05-09 09:18:42 INFO  Base:86 - try to wrong login check 
+2018-05-09 09:18:42 INFO  Base:96 - shooping check shop by 
+2018-05-09 09:18:50 INFO  Base:101 - login & logout finish
+2018-05-09 09:18:52 INFO  Base:95 - CS select topic check
+2018-05-09 09:19:03 INFO  Base:112 - shooping check advance
+2018-05-09 09:19:03 INFO  Base:105 - CS macking contacct check
+2018-05-09 09:19:16 INFO  Base:121 - CS test finish
+2018-05-09 09:19:19 INFO  Base:127 - shooping check finish
+2018-05-09 09:19:22 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-05-09 09:19:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-05-09 09:19:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-05-09 09:19:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-05-09 09:19:22 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Yael/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-05-09 10:08:11 INFO  Base:25 - Im inside here
+2018-05-09 10:08:12 INFO  Base:59 - cart test
+2018-05-09 10:08:12 INFO  Base:56 - check nav test
+2018-05-09 10:08:37 INFO  Base:69 - add item to cart chcek 
+2018-05-09 10:08:47 INFO  Base:68 - checing navbar
+2018-05-09 10:09:34 INFO  Base:80 - navbar test finish
+2018-05-09 10:09:36 INFO  Base:53 - login and logut check
+2018-05-09 10:09:44 INFO  Base:66 - try to login check 
+2018-05-09 10:09:56 INFO  Base:55 - start shhoping test
+2018-05-09 10:10:15 INFO  Base:56 - Cservice test
+2018-05-09 10:10:33 INFO  Base:68 - shooping check good query
+2018-05-09 10:10:50 INFO  Base:68 - CS good query check
+2018-05-09 10:11:09 INFO  Base:76 - try to logout check 
+2018-05-09 10:11:09 INFO  Base:127 - number of items cart chcek
+2018-05-09 10:11:14 INFO  Base:138 - cart test finfih
+2018-05-09 10:11:16 INFO  Base:82 - shooping check wrong query
+2018-05-09 10:11:34 INFO  Base:82 - CS wrong query check
+2018-05-09 10:11:52 INFO  Base:86 - try to wrong login check 
+2018-05-09 10:11:52 INFO  Base:96 - shooping check shop by 
+2018-05-09 10:12:11 INFO  Base:101 - login & logout finish
+2018-05-09 10:12:13 INFO  Base:95 - CS select topic check
+2018-05-09 10:12:25 INFO  Base:105 - CS macking contacct check
+2018-05-09 10:12:25 INFO  Base:112 - shooping check advance
+2018-05-09 10:12:38 INFO  Base:121 - CS test finish
+2018-05-09 10:12:41 INFO  Base:127 - shooping check finish
+2018-05-09 10:12:43 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-05-09 10:12:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-05-09 10:12:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-05-09 10:12:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-05-09 10:12:43 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Yael/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

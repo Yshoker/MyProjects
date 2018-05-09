@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]" parallel="classes">
+  <listeners>
+    <listener class-name="resources.MyExtentReport"/>
+  </listeners>
+  <test thread-count="2" verbose="0" name="Test(failed)" parallel="classes">
+    <classes>
+      <class name="com.tests.CheckNavberTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterClass"/>
+          <include name="checkNavbar"/>
+        </methods>
+      </class> <!-- com.tests.CheckNavberTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="15" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="271565" started-at="2018-05-09T07:08:12Z" finished-at="2018-05-09T07:12:43Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="271565" started-at="2018-05-09T07:08:12Z" finished-at="2018-05-09T07:12:43Z">
+      <class name="com.tests.ContactServiceTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.tests.ContactServiceTest@97e1986]" name="beforeClass" is-config="true" duration-ms="35183" started-at="2018-05-09T07:10:15Z" finished-at="2018-05-09T07:10:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="checkGoodQuery()[pri:0, instance:com.tests.ContactServiceTest@97e1986]" name="checkGoodQuery" duration-ms="18618" started-at="2018-05-09T07:10:50Z" finished-at="2018-05-09T07:11:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkGoodQuery -->
+        <test-method status="PASS" signature="checkWrongQuery()[pri:1, instance:com.tests.ContactServiceTest@97e1986]" name="checkWrongQuery" duration-ms="18237" started-at="2018-05-09T07:11:34Z" finished-at="2018-05-09T07:11:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWrongQuery -->
+        <test-method status="PASS" signature="checkSelectTopic()[pri:2, instance:com.tests.ContactServiceTest@97e1986]" name="checkSelectTopic" duration-ms="11265" started-at="2018-05-09T07:12:13Z" finished-at="2018-05-09T07:12:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSelectTopic -->
+        <test-method status="PASS" signature="checkMackingContant()[pri:3, instance:com.tests.ContactServiceTest@97e1986]" name="checkMackingContant" duration-ms="13417" started-at="2018-05-09T07:12:25Z" finished-at="2018-05-09T07:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkMackingContant -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.tests.ContactServiceTest@97e1986]" name="afterClass" is-config="true" duration-ms="2420" started-at="2018-05-09T07:12:38Z" finished-at="2018-05-09T07:12:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.tests.ContactServiceTest -->
+      <class name="com.tests.LoginAndLogOutTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.tests.LoginAndLogOutTest@12843fce]" name="beforeTest" is-config="true" duration-ms="8110" started-at="2018-05-09T07:09:36Z" finished-at="2018-05-09T07:09:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tryToLogin()[pri:0, instance:com.tests.LoginAndLogOutTest@12843fce]" name="tryToLogin" duration-ms="12186" started-at="2018-05-09T07:09:44Z" finished-at="2018-05-09T07:09:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tryToLogin -->
+        <test-method status="PASS" signature="tryToSignOut()[pri:1, instance:com.tests.LoginAndLogOutTest@12843fce]" name="tryToSignOut" duration-ms="24954" started-at="2018-05-09T07:11:09Z" finished-at="2018-05-09T07:11:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tryToSignOut -->
+        <test-method status="PASS" signature="tryToLoginError()[pri:2, instance:com.tests.LoginAndLogOutTest@12843fce]" name="tryToLoginError" duration-ms="18984" started-at="2018-05-09T07:11:52Z" finished-at="2018-05-09T07:12:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tryToLoginError -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.tests.LoginAndLogOutTest@12843fce]" name="afterClass" is-config="true" duration-ms="2316" started-at="2018-05-09T07:12:11Z" finished-at="2018-05-09T07:12:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.tests.LoginAndLogOutTest -->
+      <class name="com.tests.CartInfoTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.tests.CartInfoTest@2cb4c3ab]" name="beforeSuite" is-config="true" duration-ms="783" started-at="2018-05-09T07:08:11Z" finished-at="2018-05-09T07:08:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.tests.CartInfoTest@2cb4c3ab]" name="beforeClass" is-config="true" duration-ms="25101" started-at="2018-05-09T07:08:12Z" finished-at="2018-05-09T07:08:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="addItemToCart()[pri:0, instance:com.tests.CartInfoTest@2cb4c3ab]" name="addItemToCart" duration-ms="69426" started-at="2018-05-09T07:08:37Z" finished-at="2018-05-09T07:09:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItemToCart -->
+        <test-method status="PASS" signature="removeItemFromCart()[pri:0, instance:com.tests.CartInfoTest@2cb4c3ab]" name="removeItemFromCart" duration-ms="28707" started-at="2018-05-09T07:09:46Z" finished-at="2018-05-09T07:10:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeItemFromCart -->
+        <test-method status="PASS" signature="numberOfItems()[pri:1, instance:com.tests.CartInfoTest@2cb4c3ab]" name="numberOfItems" duration-ms="5071" started-at="2018-05-09T07:11:09Z" finished-at="2018-05-09T07:11:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- numberOfItems -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.tests.CartInfoTest@2cb4c3ab]" name="afterClass" is-config="true" duration-ms="2317" started-at="2018-05-09T07:11:14Z" finished-at="2018-05-09T07:11:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.tests.CartInfoTest -->
+      <class name="com.tests.CheckNavberTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.tests.CheckNavberTest@13c78c0b]" name="beforeTest" is-config="true" duration-ms="35652" started-at="2018-05-09T07:08:12Z" finished-at="2018-05-09T07:08:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="checkNavbar()[pri:0, instance:com.tests.CheckNavberTest@13c78c0b]" name="checkNavbar" duration-ms="46104" started-at="2018-05-09T07:08:47Z" finished-at="2018-05-09T07:09:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkNavbar -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.tests.CheckNavberTest@13c78c0b]" name="afterClass" is-config="true" duration-ms="2408" started-at="2018-05-09T07:09:34Z" finished-at="2018-05-09T07:09:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.tests.CheckNavberTest -->
+      <class name="com.tests.ShoopingTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.tests.ShoopingTest@3dd3bcd]" name="beforeClass" is-config="true" duration-ms="36925" started-at="2018-05-09T07:09:56Z" finished-at="2018-05-09T07:10:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="checkGoodQuery()[pri:0, instance:com.tests.ShoopingTest@3dd3bcd]" name="checkGoodQuery" duration-ms="18661" started-at="2018-05-09T07:10:33Z" finished-at="2018-05-09T07:10:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkGoodQuery -->
+        <test-method status="PASS" signature="checkWrongQuery()[pri:1, instance:com.tests.ShoopingTest@3dd3bcd]" name="checkWrongQuery" duration-ms="17627" started-at="2018-05-09T07:11:16Z" finished-at="2018-05-09T07:11:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWrongQuery -->
+        <test-method status="PASS" signature="checkShopByCategory()[pri:2, instance:com.tests.ShoopingTest@3dd3bcd]" name="checkShopByCategory" duration-ms="24381" started-at="2018-05-09T07:11:52Z" finished-at="2018-05-09T07:12:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkShopByCategory -->
+        <test-method status="PASS" signature="checkAdvanceShpping()[pri:3, instance:com.tests.ShoopingTest@3dd3bcd]" name="checkAdvanceShpping" duration-ms="16305" started-at="2018-05-09T07:12:25Z" finished-at="2018-05-09T07:12:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAdvanceShpping -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.tests.ShoopingTest@3dd3bcd]" name="afterClass" is-config="true" duration-ms="2324" started-at="2018-05-09T07:12:41Z" finished-at="2018-05-09T07:12:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.tests.ShoopingTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
